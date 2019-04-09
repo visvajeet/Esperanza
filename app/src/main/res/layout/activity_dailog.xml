@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="280dp">
+    <ImageView
+            android:layout_width="match_parent"
+        android:scaleType="fitXY"
+            android:layout_height="280dp"
+            android:id="@+id/events_image"
+        android:src="@drawable/demo"
+        android:contentDescription="@string/event_pic" />
+
+        <TextView
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:background="@color/whiteTr"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/event_title"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+
+
+
+    <LinearLayout
+            android:id="@+id/info"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_width="match_parent"
+            android:layout_height="30dp">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/time"
+                android:id="@+id/time"
+                android:layout_weight="5"
+                android:contentDescription="@string/event_time" />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/loc"
+                android:id="@+id/location"
+                android:layout_weight="3"
+                android:contentDescription="@string/event_location" />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/ruppes"
+               android:id="@+id/fee"
+                android:layout_weight="8"
+                android:contentDescription="@string/event_charge" />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/date"
+                android:id="@+id/date"
+                android:layout_weight="5"
+                android:contentDescription="@string/event_date" />
+        </LinearLayout>
+
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/cv"
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="12dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_time"
+                android:layout_weight="5" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="12dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_location"
+                android:layout_weight="3" />
+
+            <TextView
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="12dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_charge"
+                android:layout_weight="8" />
+
+            <TextView
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:textSize="12dp"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/event_date"
+                android:layout_weight="5" />
+        </LinearLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="RULES"
+        android:id="@+id/rules_button"
+        android:background="@color/red"
+        android:textColor="@color/white">
+
+
+      </Button>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:background="@color/white"
+            android:id="@+id/sv"
+            android:visibility="gone"
+            android:layout_height="250dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:background="@color/white"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:text="@string/rules_and_description"
+                    android:textSize="24dp"
+                    android:gravity="center"
+                    android:layout_margin="3dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rules" />
+
+                <TextView
+                    android:textSize="15dp"
+                   android:textAlignment="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/rule_info" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="@string/contact"
+                android:textSize="15dp"
+                android:textColor="@color/rate_review_star"
+               android:background="@color/white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/button_contact"
+                android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/button_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:text="@string/ok"
+            android:textColor="@color/black"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+
+        <LinearLayout
+            android:background="@color/white"
+            android:orientation="horizontal"
+            android:id="@+id/ll"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <LinearLayout
+                android:id="@+id/firstnumber"
+                android:layout_weight="1"
+                android:divider="@color/black"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+
+                    android:layout_width="150dp"
+                    android:paddingLeft="10dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/phonee"
+                    android:id="@+id/call_icon"
+                    android:layout_weight="3"
+                    android:contentDescription="@string/call_icon" />
+
+                <TextView
+                    android:textSize="14dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/event_coordinator_1"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/second_number"
+                android:layout_weight="1"
+                android:divider="@color/black"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageView
+                    android:layout_width="150dp"
+                    android:paddingLeft="10dp"
+                    android:layout_height="match_parent"
+                    app:srcCompat="@drawable/phonee"
+                    android:id="@+id/imageView4"
+                    android:layout_weight="3"
+                    android:contentDescription="@string/call_icon" />
+
+                <TextView
+                    android:textSize="14dp"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/event_coordinator_2"
+                    android:layout_weight="1" />
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+</LinearLayout>
+

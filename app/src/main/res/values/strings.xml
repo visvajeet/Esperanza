@@ -1,0 +1,381 @@
+<resources>
+    <string name="app_name">Esperanza</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="clg_pic_1">clg_pic_1</string>
+    <string name="clg_pic_2">clg_pic_2</string>
+    <string name="p">P</string>
+    <string name="partake">PARTAKE</string>
+    <string name="e">E</string>
+    <string name="events">EVENTS</string>
+    <string name="s">S</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="esperanza_2k17">ESPERANZA 2K17</string>
+    <string name="our_sponsors">OUR SPONSORS</string>
+    <string name="sponsors_1">sponsors_1</string>
+    <string name="sponsors_2">sponsors_2</string>
+    <string name="sponsors_3">sponsors_3</string>
+    <string name="quick_links">Quick Links</string>
+    <string name="facebook_link">facebook_link</string>
+    <string name="website_link">website_link</string>
+    <string name="location_link">location_link</string>
+    <string name="event_pic">event_pic</string>
+    <string name="event_time">event_time</string>
+    <string name="event_location">event_location</string>
+    <string name="event_charge">event_charge</string>
+    <string name="event_date">event_date</string>
+    <string name="call_icon">call_icon</string>
+    <string name="profile">profile</string>
+    <string name="rules">Rules</string>
+    <string name="contact">Contact</string>
+    <string name="es_pic">es_pic</string>
+    <string name="esperanza">Esperanza</string>
+    <string name="about_esperanza">about_esperanza</string>
+    <string name="our_team">Our Team</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="please_verify_your_email_address">Please verify your email address</string>
+    <string name="email">Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="pes_logo_1">pes_logo_1</string>
+    <string name="presents">Presents</string>
+    <string name="technical_fest_organized_by_mca_department">Technical Fest Organized by MCA Department</string>
+    <string name="password">Password</string>
+    <string name="continuee">Continue</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="pesit_bsc">PESIT BSC</string>
+    <string name="name">Name</string>
+    <string name="need_help">Need help</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="notifications">Notifications</string>
+    <string name="theme">Theme</string>
+    <string name="hi">Hi</string>
+    <string name="dot">...</string>
+    <string name="dott">.....</string>
+    <string name="thanks_for_registration">Thanks for Registration :)</string>
+    <string name="please_bring_your_mobile_when_come_for_event_registration">Please bring your mobile when you come for event registration</string>
+    <string name="more">More</string>
+    <string name="delete_ac">Delete AC</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="textview">TextView</string>
+    <string name="event_logo_model">event_logo_model</string>
+    <string name="tap_to_contact">Tap to contact</string>
+    <string name="ok">OK</string>
+    <string name="about_esperanza2k17">Esperanza is the Technical Fest Organized by MCA Department PESIT Bangalore South Campus. It was first organized in the year 2012. Esperanza-17 is the sixth event conducted in-line with Esperanza-16. In addition the Department frequently conducts Technical workshops, International Conferences, Seminars on technical topics.</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="_123456789">123456789</string>
+    <string name="demo">demo</string>
+    <string name="photography">Photography</string>
+    <string name="_9_00_12_00">9:00-12:00</string>
+    <string name="log_out">Log out</string>
+    <string name="participate">Participate</string>
+    <string name="participateE">PARTICIPATE</string>
+    <string name="find_us">Find us</string>
+    <string name="logo_ez">logo_ez</string>
+    <string name="insta_link">insta_link</string>
+    <string name="twitter_link">twitter_link</string>
+    <string name="rules_and_description">Description and Rules</string>
+    <string name="dheeraj">Dheeraj</string>
+    <string name="main_coordinator">Main Coordinator</string>
+    <string name="_8095925893">8095925893</string>
+    <string name="_9902262634">9902262634</string>
+    <string name="prizes">Prizes:</string>
+    <string name="exciting_cash_prizes">Exciting Cash Prizes</string>
+    <string name="update_soon">Update soon..</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="offer">Offer</string>
+
+
+    <string-array name="webphoria">"'{string}' occurs {times}">
+        <item>Web Designing</item>
+        <item>11:15 -02:15</item>
+        <item>Lab 500</item>
+        <item>200</item>
+        <item>11–3-2017</item>
+          <item>
+
+              Designing a website on specified topics and presenting.\n\n
+              [RULES]\n\n
+              =>2 Member Team.\n\n
+              => 2 Rounds.\n\n
+              => Participants should be familiar with Ubuntu Systems, basic knowledge is a must.\n\n
+              => Permitted Languages : HTML, MySql, PHP, JavaScript, CSS, XHTML.\n\n
+              => No use of USBs, if found the team can be disqualified.\n\n
+
+              [NOTE]\n\n Event\'s rounds and rules may change due to unavoidable circumstances or situations.\n</item>
+
+        <item>Abhishek K\n7204504900</item>
+        <item>Sagar\n9901518896</item>
+        <item>+917204504900</item>
+        <item>+919901518896</item>
+    </string-array>
+
+    <string-array name="impromptu">
+        <item>Just a Minute</item>
+        <item>11:30 -01:30</item>
+        <item>Seminar Hall 5</item>
+        <item>150</item>
+        <item>10-3-2017</item>
+            <item>
+
+                Talk all while you can.\n\n
+                [RULES]\n\n
+            	=> Individual Event.\n\n
+                => 3 Rounds.\n\n
+                => Languages allowed only English.\n\n
+                => Incase of grammar mistakes/error the next contestant will stop you and take over the topic.\n\n
+                => Judges decision will be final.\n</item>
+
+        <item>Stuti\n9686779382</item>
+        <item>Abdul\n8095390079</item>
+        <item>+919686779382</item>
+        <item>+918095390079</item>
+    </string-array>
+
+    <string-array name="silent_speak">
+        <item>Dumb Charades</item>
+        <item>09:15 -11:15</item>
+        <item>Seminar Hall 5</item>
+        <item>200</item>
+        <item>11-3-2017</item>
+            <item>
+                Wrap up the tongue, make sure you won\'t get hung.\n\n
+                [RULES]\n\n
+            	=> 3 Member Team.\n\n
+                => 3 Rounds.\n\n
+                => Technical Topics to be given.\n\n
+            </item>
+        <item>Supriya\n9980633185</item>
+        <item>Gautam\n9591352724</item>
+        <item>+919980633185</item>
+        <item>+919591352724</item>
+    </string-array>
+
+    <string-array name="mock_cid">
+        <item>Treasure Hunt</item>
+        <item>12:15 -02:15</item>
+        <item>Room No. 503</item>
+        <item>250</item>
+        <item>11-3-2017</item>
+            <item>
+            		Event where the participants team will be searching for clues based on instructions.\n\n
+                [RULES]\n\n
+                => 4 Member Team.\n\n
+                => 2 Rounds.\n\n
+                => Participants will be judged based on their time taken to reach final destination early.\n\n
+                => Only 4 teams will be qualifying for Round 2.\n\n
+                => Team to reach the final destination wins the event.\n
+</item>
+        <item>Akshay\n8139995617</item>
+        <item>Sharat\n9008741946</item>
+        <item>+918139995617</item>
+        <item>+919008741946</item>
+    </string-array>
+
+    <string-array name="mind_sweeper">
+        <item>IT Quiz</item>
+        <item>10:30 -12:30</item>
+        <item>Room No. 502</item>
+        <item>200</item>
+        <item>10-3-2017</item>
+            <item>
+            		Test your knowledge on IT.\n\n
+                [RULES]\n\n
+                => 2 Member Team.\n\
+                => 3 Rounds.\n\
+                => Technical topics to be covered.\n
+
+            	</item>
+        <item>Chaitrashree\n9743595380</item>
+        <item>Shyam\n7829418434</item>
+        <item>+919743595380</item>
+        <item>+917829418434</item>
+    </string-array>
+
+    <string-array name="conferral">
+        <item>Presentation</item>
+        <item>01:00 -02:00\n01:00 -02:00</item>
+        <item>Room No. 502</item>
+        <item>200</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+                A presentation event where the paticipants will be showcasing their presentation skills.\n\n
+               [RULES]\n\n
+                =>Individual Event.\n\n
+                =>2 Rounds.\n\n
+                =>Topics revealed while registeration.\n\n
+                =>Judging based on Topic, vocabulary, body language, presence of mind.\n\n
+                =>Vulgarity leads to disqualification.\n
+            </item>
+        <item>Rahul\n8095116455</item>
+        <item>Ameya\n8095925893</item>
+        <item>+918095116455</item>
+        <item>+918095925893</item>
+    </string-array>
+
+
+
+    <string-array name="backyard_cricket_day1">
+        <item>Backyard Cricket</item>
+        <item>10:30 -04:30\n09:00 -02:30</item>
+        <item>Cricket Ground</item>
+        <item>350</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+                [RULES]\n\n
+                => 5 Member Team [+1 for Substitution]\n\n
+                => 5 Overs Match.\n\n
+                => 3rd Over Powerplay.\n\n
+                => One bowler can bowl 2 overs only.\n\n
+                => 3 bowlers can bowl 1 over each.\n\n
+                => Runs scored will be doubled, as well as extras will be considered double, a wicket -2 for the batting team.\n\n
+                => ID Card cumpolsary for the players.\n\n
+                => Registeration should be done before 1st round.\n
+          </item>
+        <item>Srinidhi\n7259373273</item>
+        <item>Madhusudan\n8722130672</item>
+        <item>+917259373273</item>
+        <item>+918722130672</item>
+    </string-array>
+
+
+
+
+    <string-array name="pictogram">
+        <item>Photography</item>
+        <item>10:30 -04:00\n09:00 -11:00</item>
+        <item>Room No. 503</item>
+        <item>150</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+                [RULES]\n\n
+            	=> Individual Event.\n\n
+                => Theme to be revealed at the time of registration.\n\n
+                => Cameras allowed : Only DSLRs.\n\n
+                => Camera equipment to be brought by each participant themselves.\n\n
+                => Light editing allowed.\n</item>
+        <item>Brijesh\n8884330120</item>
+        <item>Tushar\n9036962392</item>
+        <item>+918884330120</item>
+        <item>+919036962392</item>
+    </string-array>
+
+
+
+    <string-array name="gaming_fifa_day1">
+        <item>FIFA</item>
+        <item>11:30 -02:15\n09:30 -12:30</item>
+        <item>CAMA Lab Mech block</item>
+        <item>150</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+                [RULES]\n\n
+                => Individual Event.\n\n
+                => Controller / Gamepads to be brought by participants otherwise a basic controller can be provided.\n\n
+                => Half Time : 5 mins.\n\n
+                => Knockout Rounds.\n\n
+                => The chosen team will be final throughout the tournament.\n\n
+                => Coin tosses decide Home/Away ground.\n\n
+                => No use of vulgar languages. If found, the participant will be disqualified.\n\n
+                => In case of confusions or misunderstandings, coordinator decision will be final.\n
+
+         </item>
+        <item>Niraj\n7798999569</item>
+        <item>Pritam\n7597222027</item>
+        <item>+917798999569</item>
+        <item>+917597222027</item>
+    </string-array>
+
+
+    <string-array name="gaming_cs_day1">
+        <item>Counter Strike</item>
+        <item>02:15 -04:00\n09:30 -12:30</item>
+        <item>CAMA Lab Mech block</item>
+        <item>350</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+                [RULES]\n\n
+                => 5 Member Team.\n\n
+                => 3 Rounds for every team.\n\n
+                => Mouse/Keyboard can be brought by participants otherwise a basic mouse/Keyboard will be provided.\n\n
+                => Round time : 4 mins.\n\n
+                => No use of vulgar languages. If found, the participant will be disqualified.\n\n
+                => In case of confusions or misunderstandings, coordinator decision will be final.\n
+            </item>
+        <item>Niraj\n7798999569</item>
+        <item>Pritam\n7597222027</item>
+        <item>+917798999569</item>
+        <item>+917597222027</item>
+    </string-array>
+
+
+    <string-array name="the_overseer_day1">
+        <item>IT Manager</item>
+        <item>11:45 -01:00\n02:15 -03:15</item>
+        <item>Room No.501</item>
+        <item>250</item>
+        <item>10-3-2017\n11-3-2017</item>
+            <item>
+            		Only the Best Suits up.\n\n
+                [RULES]\n\n
+                => Individual Event.\n\n
+                => 3 Rounds [Situation Solving, Real and Logical, Stress Interview]\n\n
+                => Solutions which adhere to Feasibility, Time Constraint, Relevant, Apt/brief.\n\n
+                => Use of Un-Parliamentary language will result in disqualification\n
+
+       </item>
+        <item>Kavya\n7259972029</item>
+        <item>Sachin\n7676264845</item>
+        <item>+91259972029</item>
+        <item>+917676264845</item>
+    </string-array>
+
+
+    <string-array name="just_code_it">
+        <item>Coding</item>
+        <item>01:00 -04:00</item>
+        <item>Lab 500</item>
+        <item>200</item>
+        <item>10-3-2017</item>
+            <item>
+                \"Coding is not typing, it is thinking”, code your thoughts in Just Code It.\n\n
+                [RULES]\n\n
+                => 2 Member Team.\n\n
+                => Maximum 2 teams per college.\n\n
+                => 2 Rounds.\n\n
+                => General Coding event rules applied.\n
+
+      </item>
+        <item>Abhishek P\n8553620074</item>
+        <item>Subramanya\n9481110767</item>
+        <item>+918553620074</item>
+        <item>+919481110767</item>
+    </string-array>
+
+
+
+    <string-array name="ideathon">
+        <item>IDEATHON</item>
+        <item>02:00 -03:30</item>
+        <item>Room No. 503</item>
+        <item>200</item>
+        <item>10-3-2017</item>
+            <item>
+                Feel a Void in Technology, come and present it.\n\n
+                [RULES]\n\n
+                =>Individual Event.\n\n
+                =>One round [5 mins]\n\n
+                =>Presenting an idea maybe on a Start-up / Technology which may catch up in future.\n
+            </item>
+        <item>Monica\n8123429383</item>
+        <item>Deepak\n8105818297</item>
+        <item>+918123429383</item>
+        <item>+918105818297</item>
+    </string-array>
+
+
+
+
+
+</resources>

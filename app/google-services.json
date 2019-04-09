@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "557443051069",
+    "firebase_url": "https://esperanza2017-a439a.firebaseio.com",
+    "project_id": "esperanza2017-a439a",
+    "storage_bucket": "esperanza2017-a439a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557443051069:android:8de72b413ff0e844",
+        "android_client_info": {
+          "package_name": "vishu4484.esperanza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557443051069-2t8fcrfan4ma3c6eut8i81uk2aoij9c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoO4XBY-yblwNmv9hJ2B6OZ36bufL5qUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
